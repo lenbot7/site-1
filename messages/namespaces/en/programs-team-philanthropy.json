@@ -87,6 +87,8 @@
     "podVirtualEventsDescription": "Running online moments, experiments, and community-wide activities.",
     "podNewspaperTitle": "Newspaper",
     "podNewspaperDescription": "Publishing stories about the community and showcasing makers.",
+    "podFraudSquadTitle": "Fraud Squad",
+    "podFraudSquadDescription": "Reviewing projects and payouts so rewards go to real work and Hack Club's donations stay protected.",
     "viewMember": "View {name}",
     "closeDialog": "Close dialog",
     "email": "Email"

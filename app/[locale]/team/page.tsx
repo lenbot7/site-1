@@ -87,6 +87,12 @@ export default async function TeamPage({ params }: Props) {
       tone: "rose",
       members: filterMembers((member) => member.department === "Newspaper"),
     },
+    {
+      title: t("podFraudSquadTitle"),
+      description: t("podFraudSquadDescription"),
+      tone: "ink",
+      members: filterMembers((member) => member.department === "Fraud"),
+    },
   ];
 
   return <TeamPageClient hqGroups={hqGroups} hcbGroups={hcbGroups} communityPods={communityPods} />;
